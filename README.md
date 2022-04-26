@@ -18,6 +18,8 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 ### Skills
 
 <p align="left">
