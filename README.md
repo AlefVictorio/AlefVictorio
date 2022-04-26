@@ -51,11 +51,11 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats.vercel.app/api?username=AlefVictorio&show_icons=true&hide=&count_private=true&title_color=0000FFed&text_color=ffffff&icon_color=0000CDed&bg_color=000000&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats.vercel.app/api?username=AlefVictorio&show_icons=true&hide=&count_private=true&title_color=0000FFed&text_color=ffffff&icon_color=FF0000&bg_color=000000&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
  
 
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlefVictorio&stroke=ffffff&background=000000&ring=0000FF&fire=FF0000&currStreakNum=F5FFFA&currStreakLabel=F5FFFA&sideNums=F5FFFA&sideLabels=ffffff&dates=FF0000&hide_border=true" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://activity-graph.herokuapp.com/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
