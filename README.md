@@ -1,19 +1,20 @@
 Hi 👋 My name is Alef
 ==========================
 
-Full Stack Software Developer
+Systems Analyst
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+🔻I'm a 19-year-old developer and I've been studying programming since I was 17, coding and figuring out how to solve problems are one of my facilities, always focusing on the design and aesthetics of the thing, using cutting-edge technology, being a full strack, but also with a focus on design in general.
+I program for fun but seriously! Solving problems, creating, innovating and making life easier for thousands of users.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [42 campus in 25 countries](https://www.42network.org/42-schools/).
+🔻I'm a student of the armed forces, and college (https://unip.br) at 19, São Paulo, a higher education and postgraduate school that has more than 27 campuses in several countries, including japan.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Daktus](https://daktus.com.br) and [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍 I am based in São Paulo, Brazil.🇧🇷
+* ✉️ You can contact me via email: (alefvictorio1@gmail.com).
+* 📓 I am currently improving my knowledge more and more, but I am willing to make proposals.
+* 💡 I'm learning Javascript, but with knowledge in programming language, design and marketing.
+* ☑️ I am open to collaborating on projects that have a high impact on people's lives, having the availability to change location.
+* 🏋️‍♂️Contestant and fan of the bodybuilder world.
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
