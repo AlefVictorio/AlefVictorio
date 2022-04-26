@@ -16,9 +16,10 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 * ⚡  I love sports and my favorite is Crossfit
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+
 
 ### Skills
 
@@ -49,6 +50,8 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats.vercel.app/api?username=AlefVictorio&show_icons=true&hide=&count_private=true&title_color=0000FFed&text_color=ffffff&icon_color=0000CDed&bg_color=000000&hide_border=true&show_icons=true"%20alt="peguimasid%27s%20GitHub%20stats"
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
